@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.stock-page input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.stock-page button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.stock-page h2 {
+  margin-top: 20px;
+}
